@@ -1,0 +1,10 @@
+version: "4"
+services:
+  sagiri:
+    build: .
+    environment:
+      BOT_TOKEN: $BOT_TOKEN
+      STRING_SESSION: $STRING_SESSION
+      SESSION: $SESSION
+      API_ID: $API_ID
+      API_HASH: $API_HASH
