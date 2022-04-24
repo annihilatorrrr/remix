@@ -63,7 +63,9 @@ npm start
 
 ## ☁️ Cloud Platforms
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/roj1512/remix)
+[![Deploy on Heroku!](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/roj1512/remix)
+
+[![Deploy on Okteto!](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/annihilatorrrr/remix)
 
 ## ⚒ Configuring
 
